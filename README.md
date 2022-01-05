@@ -3,8 +3,14 @@
 <h1 align="center">Hello 😎, I am Kenk </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Role-dApp%20Development-brightgreen" />
+<img src="https://img.shields.io/badge/Web3%20Developer-blue"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/DeFi-lightblue"/>
+<img src="https://img.shields.io/badge/NFT-lightblue"/>
+<img src="https://img.shields.io/badge/GameFi-lightblue"/>
+<img src="https://img.shields.io/badge/Metaverse-lightblue"/>
+<img src="https://img.shields.io/badge/Security%20Audits-lightblue"/>
 
 Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. Development style is lean and agile.
 
