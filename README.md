@@ -87,6 +87,7 @@ A simple and lightweight smart contract to distribute ETH automatically as it is
 
 ## 🔧 &nbsp;**Current Tech Stack**
 
+<p align="left">
 <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=000000">
 <img src="https://img.shields.io/badge/IPFS-FFFFFF?style=for-the-badge&logo=ipfs&logoColor=63D3D9">
 <img src="https://img.shields.io/badge/Chainlink-FFFFFF?style=for-the-badge&logo=Chainlink&logoColor=375BD2">
@@ -106,6 +107,7 @@ A simple and lightweight smart contract to distribute ETH automatically as it is
 
 ## 🧰 &nbsp;**Unused Tech**
 
+<p align="left">
 <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
 <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120">
