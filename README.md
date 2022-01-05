@@ -146,6 +146,6 @@ A simple and lightweight smart contract to distribute ETH automatically as it is
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000">
 <img src="https://img.shields.io/badge/Google Cloud-FFFFFF?style=for-the-badge&logo=GoogleCloud&logoColor=000000">
 
-## 🕒 &nbsp;**Time Spent in the Metaverse**
+## 🕒 &nbsp;**Time Spent in the Matrix**
 
 ![kenk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2manslkh&theme=material-palenight&langs_count=5&hide_title=true)
