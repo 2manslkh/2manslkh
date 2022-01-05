@@ -55,8 +55,9 @@ ERC20 Token for the UninterestedUnicorns ecosystem.
 <p align="left">
 <img src="img/breeding.gif" width="100">
 
-Breeding smart contract where users can use their Gen 1 UUs to breed Gen 2 UUs. Breeding logic is done off-chain to save gas costs.
+Breeding smart contract where users can use their Gen 1 UUs to breed Gen 2 UUs. Breeding logic is done off-chain to save gas costs. All the traits of the Gen 1 UUs were mapped and stored in a MongoDB server into a chromosome type model. On token mint, backend logic takes in 2 of such chromosomes to output a baby Gen 2 UU that inherits the parent's traits with a random mutation chance. Heroku was used to host the backend API.
 
+<a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0xdAABFA3f6A262815834be14eb1724cC809828242#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xdAABFA3f6A262815834be14eb1724cC809828242-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
 ### PropertysNFT - Minting
@@ -67,6 +68,9 @@ Breeding smart contract where users can use their Gen 1 UUs to breed Gen 2 UUs. 
 
 ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was sold out under 15 minutes with 482.21 ETH in revenue. Off-chain whitelisting was implemented to save about 5 ETH (~20k USD) in gas cost for 2000 whitelist spots (0.25 ETH per 100 whitelist spots)
 
+<p align="left">
+<a href="https://propertys.xyz" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
+<a href="https://opensea.io/collection/propertysofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
 ### DAOVentures - BNB Prediction Game
@@ -90,7 +94,7 @@ React website with web3.js integration for DAOVentures DeFi.
 ### ShogunSamurais - Staking (Audit)
 
 <p align="left">
-<img src="img/shogunsamurais-proof.png" width="200">
+<img src="img/shogunsamurais-proof.png" width="100">
 
 <a href="https://etherscan.io/address/0xC4F4811A854b60f7b35c8e46c4f2Ebfdd035bEd1#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4F4811A854b60f7b35c8e46c4f2Ebfdd035bEd1-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
