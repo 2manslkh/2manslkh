@@ -12,7 +12,9 @@ Welcome to my Github profile. I am a web3 **BUIDLR**.
 
 ### UninterestedUnicorns - Gen 1 Minting
 
-![uu](img/uninterestedunicorns-proof.png)
+<p align="left">
+<img src="img/uninterestedunicorns-proof-2.gif" width="200">
+<img src="img/uninterestedunicorns-proof.png" width="200">
 
 ERC721 Smart Contract for the sales of the initial 6900 UninterestedUnicorns. Project was sold out under 15 minutes with 307.308 ETH in revenue.
 
@@ -37,13 +39,18 @@ ERC20 Token for the UninterestedUnicorns ecosystem.
 
 ### UninterestedUnicorns - Breeding
 
+<p align="left">
+<img src="img/breeding.gif" width="200">
+
 Breeding smart contract where users can use their Gen 1 UUs to breed Gen 2 UUs. Breeding logic is done off-chain to save gas costs.
 
 <a href="https://etherscan.io/address/0xdAABFA3f6A262815834be14eb1724cC809828242#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xdAABFA3f6A262815834be14eb1724cC809828242-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"></a>
 
 ### PropertysNFT - Minting
 
-![propertysNFT](img/propertys-proof.png)
+<p align="left">
+<img src="img/propertys-proof-2.png" width="200">
+<img src="img/propertys-proof.png" width="200">
 
 ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was sold out under 15 minutes with 482.21 ETH in revenue. Off-chain whitelisting was implemented to save about 5 ETH (~20k USD) in gas cost for 2000 whitelist spots (0.25 ETH per 100 whitelist spots)
 
@@ -69,7 +76,8 @@ React website with web3.js integration for DAOVentures DeFi.
 
 ### ShogunSamurais - Staking (Audit)
 
-![propertysNFT](img/shogunsamurais-proof.png)
+<p align="left">
+<img src="img/shogunsamurais-proof.png" width="200">
 
 <a href="https://etherscan.io/address/0xC4F4811A854b60f7b35c8e46c4f2Ebfdd035bEd1#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4F4811A854b60f7b35c8e46c4f2Ebfdd035bEd1-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"></a>
 
