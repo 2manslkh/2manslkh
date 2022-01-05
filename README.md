@@ -3,6 +3,9 @@
 <h1 align="center">Kenk's GitHub Profile</h1>
 
 <p align="center">
+<img src="img/woltKeng.png" width=200/>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Web3%20Developer-blue"/>
 
 <p align="center">
@@ -12,7 +15,11 @@
 <img src="https://img.shields.io/badge/Metaverse-lightblue"/>
 <img src="https://img.shields.io/badge/Security%20Audits-lightblue"/>
 
-Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. Development style is lean and agile.
+<p align="center">
+<a href="https://linkedin.com/in/kenghin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kenk_linkedin"></a>
+<a href="https://discordapp.com/users/267979519267176449/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
+
+Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. My development style is lean and agile.
 
 ## &nbsp; **2021 Major Projects**
 
@@ -66,8 +73,8 @@ ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was s
 
 Prediction Game where users can bet on whether the price of BNB will go up or down in a specified timeframe.
 
-<a href="https://prediction.daoventures.co/" target="blank"><img align="center" src="https://img.shields.io/badge/LINK-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"></a>
-
+<p align="left">
+<a href="https://prediction.daoventures.co/" target="blank"><img align="center" src="https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"></a>
 <a href="https://bscscan.com/address/0x3c8Fd44e681b906c18824c5aD8917183148BFA58#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x3c8Fd44e681b906c18824c5aD8917183148BFA58-FFFFFF?style=for-the-badge&logo=Binance&logoColor=F0B90B"></a>
 
 ### DAOVentures - Frontend Development
@@ -76,7 +83,7 @@ React website with web3.js integration for DAOVentures DeFi.
 
 ![DAOVentures-Screenshot](img/daoventures-screenshot.png)
 
-<a href="https://app.daoventures.co/invest" target="blank"><img align="center" src="https://img.shields.io/badge/LINK-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"></a>
+<a href="https://app.daoventures.co/invest" target="blank"><img align="center" src="https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"></a>
 
 ## &nbsp; **2021 Minor Projects**
 
@@ -89,8 +96,8 @@ React website with web3.js integration for DAOVentures DeFi.
 
 ### PlaybookXO - Minting (Audit)
 
+<p align="left">
 <a href="https://etherscan.io/address/0x28ec3814372cb7e09db172f3d829c4b534b84a78#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x28ec3814372cb7e09Db172f3D829C4b534B84a78-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"></a>
-
 <a href="https://github.com/2manslkh/smartcontract-audits/blob/main/PlaybookXO%20Audit.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/PDF-FFFFFF?style=for-the-badge&logo=Github&logoColor=000000"></a>
 
 ### Royalties Splitter
@@ -135,12 +142,6 @@ A simple and lightweight smart contract to distribute ETH automatically as it is
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000">
 <img src="https://img.shields.io/badge/Google Cloud-FFFFFF?style=for-the-badge&logo=GoogleCloud&logoColor=000000">
 
-## 🔗 &nbsp;**Socials**
-
-<p align="left">
-<a href="https://linkedin.com/in/kenghin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kenk_linkedin"></a>
-<a href="https://discordapp.com/users/267979519267176449/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
-
-## 🕒 &nbsp;**Time Spent**
+## 🕒 &nbsp;**Time Spent in the Metaverse**
 
 ![kenk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2manslkh&theme=material-palenight&langs_count=5&hide_title=true)
