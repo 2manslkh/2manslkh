@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">Hello 😎, I am Kenk </h1>
+<h1 align="center">Kenk's GitHub Profile</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Web3%20Developer-blue"/>
