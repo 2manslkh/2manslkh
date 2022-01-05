@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Role-dApp%20Development-brightgreen" />
 
-Welcome to my Github profile. I am a web3 **BUIDLR**.
+Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. Development style is lean and agile.
 
 ## &nbsp; **2021 Major Projects**
 
