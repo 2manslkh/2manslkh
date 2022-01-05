@@ -75,7 +75,7 @@ ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was s
 
 ### DAOVentures - BNB Prediction Game
 
-Prediction Game where users can bet on whether the price of BNB will go up or down in a specified timeframe.
+Prediction Game where users can bet on whether the price of BNB will go up or down in a specified timeframe. Price of BNB is retrieved from the BNB/USD Chainlink Oracle.
 
 <p align="left">
 <a href="https://prediction.daoventures.co/" target="blank"><img align="center" src="https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"  height="16"></a>
