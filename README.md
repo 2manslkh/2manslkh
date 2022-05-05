@@ -21,6 +21,20 @@
 
 Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. My development style is lean and agile.
 
+## &nbsp; **2022 Major Projects**
+
+### NiftyRewards
+
+<a href="https://www.niftyr3wrds.com/">
+<img src="img/niftyrewards.png" width="100"/>
+</a>
+
+Web application to provide NFTs with real world utilities.
+
+MVP Built within 36 hours at ETH Amsterdam
+
+Won 3rd place for Web3Auth Sponsor Prize
+
 ## &nbsp; **2021 Major Projects**
 
 ### UninterestedUnicorns - Gen 1 Minting
