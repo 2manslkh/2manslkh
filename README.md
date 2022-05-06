@@ -23,21 +23,28 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ## &nbsp; **2022 Major Projects**
 
-### NiftyRewards
+### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETHAmsterdam 2022)
 
+<img align="center" src="img/nifty.png" width="500">
+
+The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible real world utilities. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
+
+Bigger brands like Nike and Adidas have the purchasing power to acquire successful NFT collections but what about the 99% of merchants out there?
+
+Over the 36-hours hackathon, my team prototyped a which platform serves as a Discovery Reward platform for users and a one-stop platform for merchants to kickstart nft reward campaigns. Onboarding web2 users and merchants is seamless with the use of technologies like web3Auth and walletConnect.
+
+Find out more about the project at our repository:
+
+<https://github.com/NiftyRewards>
+
+<p align="left">
 <a href="https://www.niftyr3wrds.com/">
 <img src="img/niftyrewards.png" width="100"/>
 </a>
 
-Web application to provide NFTs with real world utilities.
-
-MVP Built within 36 hours at ETH Amsterdam
-
-Won 3rd place for Web3Auth Sponsor Prize
-
 ## &nbsp; **2021 Major Projects**
 
-### UninterestedUnicorns - Gen 1 Minting
+### :unicorn: UninterestedUnicorns - Gen 1 Minting
 
 <p align="left">
 <img src="img/uninterestedunicorns-proof-2.gif" width="100">
@@ -52,19 +59,19 @@ Images were randomly generated using Node.js image generation scripts and hosted
 <a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
-### UninterestedUnicorns - Questing
+### :unicorn: UninterestedUnicorns - Questing
 
 Staking smart contract where UU holders can interact with to lock up UU tokens to gain UniCandy UCD rewards. Inspired by Decentralized Finance. Special combos of UUs staked & duration of quests will result in a bonus UCD multiplier.
 
 <a href="https://etherscan.io/address/0x1d7E43bf140451c9a28Ac551D70f25A69795767b#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x1d7E43bf140451c9a28Ac551D70f25A69795767b-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D" height="16"></a>
 
-### UninterestedUnicorns - UCD Token
+### :unicorn: UninterestedUnicorns - UCD Token
 
 ERC20 Token for the UninterestedUnicorns ecosystem.
 
 <a href="https://etherscan.io/address/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
-### UninterestedUnicorns - Breeding
+### :unicorn: UninterestedUnicorns - Breeding
 
 <p align="left">
 <img src="img/breeding.gif" width="100">
@@ -74,7 +81,7 @@ Breeding smart contract where users can use their Gen 1 UUs to breed Gen 2 UUs. 
 <a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0xdAABFA3f6A262815834be14eb1724cC809828242#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xdAABFA3f6A262815834be14eb1724cC809828242-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
-### PropertysNFT - Minting
+### :house: PropertysNFT - Minting
 
 <p align="left">
 <img src="img/propertys-proof-2.png" width="100">
@@ -87,7 +94,7 @@ ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was s
 <a href="https://opensea.io/collection/propertysofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
-### DAOVentures - BNB Prediction Game
+### :moneybag: DAOVentures - BNB Prediction Game
 
 Prediction Game where users can bet on whether the price of BNB will go up or down in a specified timeframe. Price of BNB is retrieved from the BNB/USD Chainlink Oracle.
 
@@ -105,7 +112,7 @@ React website with web3.js integration for DAOVentures DeFi.
 
 ## &nbsp; **2021 Minor Projects**
 
-### ShogunSamurais - Staking (Audit)
+### :crossed_swords: ShogunSamurais - Staking (Audit)
 
 <p align="left">
 <img src="img/shogunsamurais-proof.png" width="100">
