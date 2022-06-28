@@ -23,6 +23,18 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ## &nbsp; **2022 Major Projects**
 
+### :gift: PEW - On-Chain Reputation Governance (ETHNYC 2022)
+
+<img align="center" src="img/pew.png" width="500">
+
+The project was submitted as part of ETHNYC 2022 organized by ETHGlobal. Current governance modals that uses tokens as voting power suffer from voting inequality. Rich users that may not have the best interest of the DAO in mind can easily pass proposals that are in their favour instead of the DAO.
+
+PEW aims to solve this voting issue by introducing an on-chain reputation system that is fully democratized. Individuals have to self-declare their contributions to the DAO which are either vouched or attested via Upvoting or downvoting respectively. The overall voting power an individual have will be:
+
+$A * Time\:Spent\:In\:DAO * B * Total\:Number\:Of\:Upvotes * C * Total\:Number\:Of\:Downvotes * D * Total\:Number\:Of\:Reviews\:Given$
+
+where A, B, C, and D are customizable weights.
+
 ### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETHAmsterdam 2022)
 
 <img align="center" src="img/nifty.png" width="500">
