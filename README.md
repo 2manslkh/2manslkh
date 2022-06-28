@@ -31,7 +31,7 @@ The project was submitted as part of ETHNYC 2022 organized by ETHGlobal. Current
 
 PEW aims to solve this voting issue by introducing an on-chain reputation system that is fully democratized. Individuals have to self-declare their contributions to the DAO which are either vouched or refuted via Upvoting or downvoting respectively. The overall voting power an individual have will be:
 
-$A * Time\:Spent\:In\:DAO * B * Total\:Number\:Of\:Upvotes * C * Total\:Number\:Of\:Downvotes * D * Total\:Number\:Of\:Reviews\:Given$
+$A * Time\ Spent\ In\ DAO * B * Total\ Number\ Of\ Upvotes * C * Total\ Number\ Of\ Downvotes * D * Total\ Number\ Of\ Reviews\ Given$
 
 where A, B, C, and D are customizable weights.
 
