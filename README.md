@@ -35,9 +35,11 @@ $A * Time\ Spent\ In\ DAO * B * Total\ Number\ Of\ Upvotes * C * Total\ Number\ 
 
 where A, B, C, and D are customizable weights.
 
+<https://github.com/FloorGangETHNYC>
+
 ### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETHAmsterdam 2022)
 
-<img align="center" src="img/nifty.png" width="500">
+<img align="center" src="img/nifty.png" href="https://github.com/FloorGangETHNYC" width="500">
 
 The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible real world utilities. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
 
