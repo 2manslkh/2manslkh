@@ -23,7 +23,34 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ## &nbsp; **2022 Major Projects**
 
-### :gift: PEW - On-Chain Reputation Governance (ETHNYC 2022)
+### :dash: Woosh - Web2 Friendly Crypto P2P Payment App (ETH Mexico 2022)
+
+### 👻👐 GAAVE - On-Chain Reputation Governance (ETH Seoul 2022)
+
+### 👐 GIV3 - On-Chain Reputation Governance (Morpheus Labs Hackathon 2022)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/giv3_logo.drawio.svg" width=400/>
+</a>
+<p align="center">
+<i>Safeguarding the future of philanthrophy</i>
+
+Giv3 (read: Give) is a platform where philanthropic organizations may utilize to quickly adopt NFTs to fundraise for their cause. The team identified that more could be done to aid philanthropic efforts around the world, and the solution to that was to allow philanthropic organizations create NFTs that are enga
+
+### 🚫◼️✏️ Unblogged - On-Chain Reputation Governance (HackFS 2022)
+
+<p align="center">
+<a href="https://github.com/Unblogg">
+<img src="https://raw.githubusercontent.com/Unblogg/.github/main/profile/assets/unblogged_logo.jpg"/>
+</a>
+
+Blogging + Unblocking Censorship = Unblogged. Unblogged was submitted as a hackathon project for HackFS 2022.
+
+Unblogged is a blogging application that unblocks any form of censorship (Blog + Unblock = Unblogged). It utilizes IPFS to keep user's articles persistent and censorship resistant and Markdown language for a pleasant and familiar writing interface.
+
+Our team's goal for this hackathon is to develop a 100% decentralized platform using the power of IPFS, hence, all the tools used to support this platform is completely decentralized. Unblogged is hosted using [Fleek](https://github.com/FleekHQ), which allows **Unblogged** to be permissionless, trustless, censorship resistant, and free of centralized gatekeepers. Every article that a user writes will be published and pinned on [IPFS](https://github.com/ipfs) using [web3.storage's](https://github.com/web3-storage) SDK. This means that the user's article would be almost impossible to be censored. Each article is also minted as an NFT on Polygon which is integrated with [Tableland](https://github.com/tablelandnetwork) such that every article can be searched (using a simple SQL query) on the Homepage of Unblogged by the article's title or tags.
+
+### :gift: PEW - On-Chain Reputation Governance (ETH NYC 2022)
 
 <img align="center" src="img/pew.png" width="500">
 
@@ -37,7 +64,7 @@ where A, B, C, and D are customizable weights.
 
 <https://github.com/FloorGangETHNYC>
 
-### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETHAmsterdam 2022)
+### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETH Amsterdam 2022)
 
 <img align="center" src="img/nifty.png" href="https://github.com/FloorGangETHNYC" width="500">
 
