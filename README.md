@@ -25,9 +25,40 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ### :dash: Woosh - Web2 Friendly Crypto P2P Payment App (ETH Mexico 2022)
 
-### 👻👐 GAAVE - On-Chain Reputation Governance (ETH Seoul 2022)
+<i>🥇 ETH Mexico Finalist </i>
+<i>🏆 IPFS/Filecoin Sponsor Prize </i>
+<i>🏆 The Graph Sponsor Prize </i>
+<i>🏆 LENS Honorary Prize </i>
+<i>🏆 WorldCoin Pool Prize </i>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/woosh-screenshot.png" width=400/>
+</a>
+<p align="center">
+
+Woosh aims to onboard web2 users into the world of crypto by providing a user-friendly and intuitive cash app. It's simple enough for web2 users and functional enough for web3 users. Little to zero knowledge of crypto, Ethereum, or gas fees is necessary for the user to get started. We aimed to make this cash app as simple as humanly possible. Imagine Web3 + Venmo, with Woosh, you can follow your friends, request/send crypto, customize your profile and have peace of mind that every transaction you complete is with a verified human. No bots allowed!
+
+https://ethglobal.com/showcase/woosh-pu1fn
+
+### 👻👐 GAAVE - Charity Yield Farming (ETH Seoul 2022)
+
+<i>🥇 Public Goods Track Winner </i>
+<i>🏆 IPFS/Filecoin Sponsor Prize </i>
+<i>🏆 The Graph Sponsor Prize </i>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/gaave-screenshot.png" width=400/>
+</a>
+<p align="center">
+<i>Giving + AAVE = GAAVE</i>
+
+GAAVE is a yield farming for charity platform built by team GigaChads at ETH Seoul 2022.
+
+A platform where crypto users could deposit their cryptocurrencies to generate yield for a cause. To further drive engagement, soulbound NFTs would be available for claim whenever a user reaches certain milestone when generating yield for a cause.
 
 ### 👐 GIV3 - On-Chain Reputation Governance (Morpheus Labs Hackathon 2022)
+
+<i>🥈 Morpheus Labs Hackathon Runner-up</i>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/giv3_logo.drawio.svg" width=400/>
@@ -38,6 +69,8 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 Giv3 (read: Give) is a platform where philanthropic organizations may utilize to quickly adopt NFTs to fundraise for their cause. The team identified that more could be done to aid philanthropic efforts around the world, and the solution to that was to allow philanthropic organizations create NFTs that are enga
 
 ### 🚫◼️✏️ Unblogged - On-Chain Reputation Governance (HackFS 2022)
+
+<i>🏆 IPFS/Filecoin Sponsor Prize</i>
 
 <p align="center">
 <a href="https://github.com/Unblogg">
@@ -52,6 +85,8 @@ Our team's goal for this hackathon is to develop a 100% decentralized platform u
 
 ### :gift: PEW - On-Chain Reputation Governance (ETH NYC 2022)
 
+<i>🏆 Worldcoin Pool Prize</i>
+
 <img align="center" src="img/pew.png" width="500">
 
 The project was submitted as part of ETHNYC 2022 organized by ETHGlobal. Current governance modals that uses tokens as voting power suffer from voting inequality. Rich users that may not have the best interest of the DAO in mind can easily pass proposals that are in their favour instead of the DAO.
@@ -65,6 +100,8 @@ where A, B, C, and D are customizable weights.
 <https://github.com/FloorGangETHNYC>
 
 ### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETH Amsterdam 2022)
+
+<i>🏆 Web3 Auth Sponsor Prize</i>
 
 <img align="center" src="img/nifty.png" href="https://github.com/FloorGangETHNYC" width="500">
 
