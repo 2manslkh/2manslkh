@@ -32,7 +32,7 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 <i>🏆 WorldCoin Pool Prize </i>
 
 <p align="center">
-<img src="img/woosh-screenshot.png" width=400/>
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/woosh-screenshot.png" width=400/>
 </a>
 <p align="center">
 
@@ -49,7 +49,7 @@ https://ethglobal.com/showcase/woosh-pu1fn
 <i>🏆 The Graph Sponsor Prize </i>
 
 <p align="center">
-<img src="img/gaave-screenshot.png" width=400/>
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/gaave-screenshot.png" width=400/>
 </a>
 <p align="center">
 <i>Giving + AAVE = GAAVE</i>
