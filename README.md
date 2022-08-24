@@ -32,11 +32,13 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 <i>🏆 WorldCoin Pool Prize </i>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/woosh-screenshot.png" width=400/>
+<img src="img/woosh-screenshot.png" width=400/>
 </a>
 <p align="center">
 
 Woosh aims to onboard web2 users into the world of crypto by providing a user-friendly and intuitive cash app. It's simple enough for web2 users and functional enough for web3 users. Little to zero knowledge of crypto, Ethereum, or gas fees is necessary for the user to get started. We aimed to make this cash app as simple as humanly possible. Imagine Web3 + Venmo, with Woosh, you can follow your friends, request/send crypto, customize your profile and have peace of mind that every transaction you complete is with a verified human. No bots allowed!
+
+<https://github.com/wooshorg>
 
 https://ethglobal.com/showcase/woosh-pu1fn
 
@@ -47,7 +49,7 @@ https://ethglobal.com/showcase/woosh-pu1fn
 <i>🏆 The Graph Sponsor Prize </i>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/gaave-screenshot.png" width=400/>
+<img src="img/gaave-screenshot.png" width=400/>
 </a>
 <p align="center">
 <i>Giving + AAVE = GAAVE</i>
@@ -55,6 +57,8 @@ https://ethglobal.com/showcase/woosh-pu1fn
 GAAVE is a yield farming for charity platform built by team GigaChads at ETH Seoul 2022.
 
 A platform where crypto users could deposit their cryptocurrencies to generate yield for a cause. To further drive engagement, soulbound NFTs would be available for claim whenever a user reaches certain milestone when generating yield for a cause.
+
+<https://github.com/GigaChadds>
 
 ### 👐 GIV3 - On-Chain Reputation Governance (Morpheus Labs Hackathon 2022)
 
@@ -68,13 +72,15 @@ A platform where crypto users could deposit their cryptocurrencies to generate y
 
 Giv3 (read: Give) is a platform where philanthropic organizations may utilize to quickly adopt NFTs to fundraise for their cause. The team identified that more could be done to aid philanthropic efforts around the world, and the solution to that was to allow philanthropic organizations create NFTs that are enga
 
+<https://github.com/Giv3rs>
+
 ### 🚫◼️✏️ Unblogged - On-Chain Reputation Governance (HackFS 2022)
 
 <i>🏆 IPFS/Filecoin Sponsor Prize</i>
 
 <p align="center">
 <a href="https://github.com/Unblogg">
-<img src="https://raw.githubusercontent.com/Unblogg/.github/main/profile/assets/unblogged_logo.jpg"/>
+<img src="https://raw.githubusercontent.com/Unblogg/.github/main/profile/assets/unblogged_logo.jpg"  width=400/>
 </a>
 
 Blogging + Unblocking Censorship = Unblogged. Unblogged was submitted as a hackathon project for HackFS 2022.
@@ -83,11 +89,16 @@ Unblogged is a blogging application that unblocks any form of censorship (Blog +
 
 Our team's goal for this hackathon is to develop a 100% decentralized platform using the power of IPFS, hence, all the tools used to support this platform is completely decentralized. Unblogged is hosted using [Fleek](https://github.com/FleekHQ), which allows **Unblogged** to be permissionless, trustless, censorship resistant, and free of centralized gatekeepers. Every article that a user writes will be published and pinned on [IPFS](https://github.com/ipfs) using [web3.storage's](https://github.com/web3-storage) SDK. This means that the user's article would be almost impossible to be censored. Each article is also minted as an NFT on Polygon which is integrated with [Tableland](https://github.com/tablelandnetwork) such that every article can be searched (using a simple SQL query) on the Homepage of Unblogged by the article's title or tags.
 
+<https://github.com/Unblogg>
+
 ### :gift: PEW - On-Chain Reputation Governance (ETH NYC 2022)
 
 <i>🏆 Worldcoin Pool Prize</i>
 
-<img align="center" src="img/pew.png" width="500">
+<p align="center">
+<a href="https://github.com/Unblogg">
+<img src="img/pew.png"  width=400/>
+</a>
 
 The project was submitted as part of ETHNYC 2022 organized by ETHGlobal. Current governance modals that uses tokens as voting power suffer from voting inequality. Rich users that may not have the best interest of the DAO in mind can easily pass proposals that are in their favour instead of the DAO.
 
@@ -103,7 +114,10 @@ where A, B, C, and D are customizable weights.
 
 <i>🏆 Web3 Auth Sponsor Prize</i>
 
-<img align="center" src="img/nifty.png" href="https://github.com/FloorGangETHNYC" width="500">
+<p align="center">
+<a href="https://github.com/Unblogg">
+<img src="img/nifty.png"  width=500/>
+</a>
 
 The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible real world utilities. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
 
