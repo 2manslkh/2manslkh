@@ -74,7 +74,7 @@ Giv3 (read: Give) is a platform where philanthropic organizations may utilize to
 
 <https://github.com/Giv3rs>
 
-### 🚫◼️✏️ Unblogged - On-Chain Reputation Governance (HackFS 2022)
+### 🚫◼️✏️ Unblogged - Censorship Resistant Blogging (HackFS 2022)
 
 <i>🏆 IPFS/Filecoin Sponsor Prize</i>
 
