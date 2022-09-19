@@ -60,7 +60,7 @@ A platform where crypto users could deposit their cryptocurrencies to generate y
 
 <https://github.com/GigaChadds>
 
-### 👐 GIV3 - On-Chain Reputation Governance (Morpheus Labs Hackathon 2022)
+### 👐 GIV3 - Charity Yield Farming (Morpheus Labs Hackathon 2022)
 
 <i>🥈 Morpheus Labs Hackathon Runner-up</i>
 
