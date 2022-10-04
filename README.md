@@ -93,7 +93,7 @@ Our team's goal for this hackathon is to develop a 100% decentralized platform u
 
 ### :gift: PEW - On-Chain Reputation Governance (ETH NYC 2022)
 
-<i>🏆 Worldcoin Pool Prize</i>
+<i>🏆 Worldcoin Pool Prize</i> <i>🏆 Optimism Pool Prize</i>
 
 <p align="center">
 <a href="https://github.com/Unblogg">
@@ -109,6 +109,8 @@ $A * Time\ Spent\ In\ DAO * B * Total\ Number\ Of\ Upvotes * C * Total\ Number\ 
 where A, B, C, and D are customizable weights.
 
 <https://github.com/FloorGangETHNYC>
+
+<https://ethglobal.com/showcase/pew-pza8i>
 
 ### :gift: Nifty Rewards - NFT Reward Discovery Platform (ETH Amsterdam 2022)
 
