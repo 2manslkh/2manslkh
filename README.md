@@ -23,6 +23,47 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ## &nbsp; **2022 Major Projects**
 
+### :dash: PreshMail - Decentralized Chat App with Attention Monetization (ETH SanFrancisco 2022)
+
+<i>🏆 Lens Protocol — Integration</i>
+<i>🏆 XMTP — Runner Up</i>
+<i>🏆 Push Protocol — Runner Up</i>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/preshmail.png" width=400/>
+</a>
+<p align="center">
+
+Modern day social media is plagued with ads and people sending unsolicited messages to strangers due to the ease of doing so via bots and automation. We feel that it is unfair that you have to waste your precious attention on spam and unwanted messages.
+
+Ad services such as Google Ad sense helps you to monetize your attention to a certain degree, but what if we could democratize this whole process?
+
+There are existing solutions out there to do exactly this, such as the Brave browser, but there has not been one in the area of text messaging.
+
+<https://github.com/Omegachads>
+
+<https://ethglobal.com/showcase/preshmail-rnuzb>
+
+### :dash: DappStop - Decentralized App Store (ETH Bogota 2022)
+
+<i>🏆 Optimism — Optimism Games & NFT Infrastructure</i>
+<i>🏆 IPFS/Filecoin Sponsor Prize</i>
+<i>🏆 Klaytn — Best Use</i>
+<i>🏆 Push Protocol — Best Use</i>
+<i>🏆 Polygon Pool Prize </i>
+<i>🏆 IPFS/Filecoin — Top 19</i>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-Banner.png" width=400/>
+</a>
+<p align="center">
+
+DappStop is a censorship-resistant mobile app distribution platform. Unlike the existing app stores, DappStop empowers creators by removing any form of restrictions on in-app monetization.
+
+<https://github.com/dAppStoppers>
+
+<https://ethglobal.com/showcase/dappstop-fp7y3>
+
 ### :dash: Woosh - Web2 Friendly Crypto P2P Payment App (ETH Mexico 2022)
 
 <i>🥇 ETH Mexico Finalist </i>
@@ -40,7 +81,7 @@ Woosh aims to onboard web2 users into the world of crypto by providing a user-fr
 
 <https://github.com/wooshorg>
 
-https://ethglobal.com/showcase/woosh-pu1fn
+<https://ethglobal.com/showcase/woosh-pu1fn>
 
 ### 👻👐 GAAVE - Charity Yield Farming (ETH Seoul 2022)
 
