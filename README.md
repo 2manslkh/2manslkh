@@ -30,7 +30,7 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 <i>🏆 Push Protocol — Runner Up</i>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/preshmail.png" width=400/>
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/preshmail.jpg" width=400/>
 </a>
 <p align="center">
 
