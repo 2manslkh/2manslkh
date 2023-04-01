@@ -33,6 +33,16 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 <img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/ethercard.png" width=400/>
 </a>
 
+Ethercard is a revolutionary payment solution that allows individuals and business owners to easily and securely receive cryptocurrency payments using NFC technology. With Ethercard, the receiver can request payments on their mobile device, and the sender can tap their Ethercard, which is a physical card embedded with an NFC chip linked to their crypto wallet. This acts as the "signature" to approve the transaction, making payments seamless and secure.
+
+Our product solves the problem of complicated and error-prone crypto payments by simplifying the process without compromising security. We wanted to answer the question: “How might we simplify crypto payments for more users without compromising security?”. Ethercard is designed to be user-friendly, with a mobile app that enables users to request and receive crypto with just a few taps. Using ZK and account abstraction ensures that payments are safe and secure.
+
+Ethercard is perfect for small business owners like Jorge (our user persona in the demo video), who can now easily accept crypto payments without the hassle of traditional payment systems. With our cutting-edge technology, you can rest assured that your payments are transparent and secure.
+
+For future improvements, we would like to enable phone-to-phone payments so users can tap their phones with others to send/receive payments. In addition, we want to support 100+ cryptocurrencies in addition to ETH.
+
+Join us in the future of payments with Ethercard!
+
 <https://github.com/EtherCardX/EtherCard>
 <https://ethglobal.com/showcase/ethercard-zv78k>
 
