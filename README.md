@@ -29,22 +29,26 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 <i>🏆 Scroll Pool Prize </i>
 <i>🏆 Optimism Pool Prize </i>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/ethercard.png" width=400/>
 </a>
 
 <https://github.com/EtherCardX/EtherCard>
 <https://ethglobal.com/showcase/ethercard-zv78k>
+
 ### 0xStems - Airdrop
 
 Airdrop script to release NFTs to users who voted on 0xStems and frontend modifications
 
-<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/0xstems.png" width=400/>
+<p align="center">
+<a href="https://0xstems.xyz">
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/0xstems.png" width=600/>
 </a>
 
 ### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
 
 <i>🏆 The Graph — Best New Subgraph(s)</i>
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/bluebirdswap.png" width=400/>
 
 NFTs (Non-Fungible Tokens) have become increasingly popular in recent years as a way to represent unique digital assets such as artwork, music, and video game items. However, high-value NFTs can be expensive and illiquid, making it difficult for smaller investors to gain exposure to the market.
