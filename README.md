@@ -67,7 +67,7 @@ There are existing solutions out there to do exactly this, such as the Brave bro
 
 <https://ethglobal.com/showcase/preshmail-rnuzb>
 
-### :dash: DappStop - Decentralized App Store (ETH Bogota 2022)
+### 🎮 DappStop - Decentralized App Store (ETH Bogota 2022)
 
 <i>🏆 Optimism — Optimism Games & NFT Infrastructure</i>
 <i>🏆 IPFS/Filecoin Sponsor Prize</i>
