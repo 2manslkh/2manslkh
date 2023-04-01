@@ -21,6 +21,14 @@
 
 Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. My development style is ~~lean and agile~~ fast game baddabingbaddaboom.
 
+## &nbsp; **2023 Major Projects**
+
+### 0xStems - Airdrop
+
+Airdrop script to release NFTs to users who voted on 0xStems and frontend modifications
+
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/0xstems.png" width=400/>
+</a>
 
 ### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
 
