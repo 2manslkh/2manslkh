@@ -44,7 +44,9 @@ Airdrop script to release NFTs to users who voted on 0xStems and frontend modifi
 ### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
 
 <i>🏆 The Graph — Best New Subgraph(s)</i>
+
 <img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/bluebirdswap.png" width=400/>
+
 NFTs (Non-Fungible Tokens) have become increasingly popular in recent years as a way to represent unique digital assets such as artwork, music, and video game items. However, high-value NFTs can be expensive and illiquid, making it difficult for smaller investors to gain exposure to the market.
 
 With BluebirdSwap, users can buy and sell fractional ownership of NFTs, which makes it possible for smaller investors to participate in the market. This allows users to buy a share of a valuable NFT without having to pay the entire price upfront. Fractional ownership also allows investors to diversify their portfolios by owning a stake in multiple NFTs. BluebirdSwap provides a new way to speculate on the value of these assets. This is not possible on OpenSea or other NFT marketplaces, which only support direct trading of NFTs.
