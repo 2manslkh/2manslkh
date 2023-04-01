@@ -23,6 +23,17 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ## &nbsp; **2023 Major Projects**
 
+### EtherCard - Contactless Crypto Payments (Scaling Ethereum 2023)
+<i>🥇 Scaling Ethereum Finalist </i>
+<i>🏆 Taiko Sponsor Prize (1st) </i>
+<i>🏆 Scroll Pool Prize </i>
+<i>🏆 Optimism Pool Prize </i>
+
+<img src="https://raw.githubusercontent.com/2manslkh/2manslkh/main/img/ethercard.png" width=400/>
+</a>
+
+<https://github.com/EtherCardX/EtherCard>
+<https://ethglobal.com/showcase/ethercard-zv78k>
 ### 0xStems - Airdrop
 
 Airdrop script to release NFTs to users who voted on 0xStems and frontend modifications
