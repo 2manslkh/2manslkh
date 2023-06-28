@@ -25,9 +25,17 @@ body:
       description: Provide a brief description of your project and its objectives
 	
 	- type: dropdown
-		id: category
-		attributes:
-			label: Category
+    id: category
+    attributes:
+      label: Category
+      description: Select the category that best fits your project
+      options:
+        - Development:Application
+        - Development:Tooling
+        - Development:Protocol
+        - Development:Infrastructure
+        - Community:Education
+        - Community:Events
 
   - type: input
     id: funding_amount_requested
