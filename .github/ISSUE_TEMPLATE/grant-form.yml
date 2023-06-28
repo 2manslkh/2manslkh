@@ -24,7 +24,7 @@ body:
       label: Project Description
       description: Provide a brief description of your project and its objectives
 	
-	- type: dropdown
+  - type: dropdown
     id: category
     attributes:
       label: Category
