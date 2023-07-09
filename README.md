@@ -61,6 +61,7 @@ The third component of this project is a front end game of Texas Holdem to demon
 In addition to the 3 components, 2 types of smart contracts have been deployed across 6 different EVM chains. The first smart contract is a universal relayer smart contract which facilitates the receival of the verified proof from the relayer. The second smart contract is an EVM Proof Channel which allows participants to publicise their proof. This channel allows the participants to trustlessly cross verify that the random numbers have not been tampered with.
 
 <https://github.com/zKatcha/zKatcha>
+
 <https://ethglobal.com/showcase/minamal-vrf-ap9t9>
 
 ### EtherCard - Contactless Crypto Payments (Scaling Ethereum 2023)
@@ -84,6 +85,7 @@ For future improvements, we would like to enable phone-to-phone payments so user
 Join us in the future of payments with Ethercard!
 
 <https://github.com/EtherCardX/EtherCard>
+
 <https://ethglobal.com/showcase/ethercard-zv78k>
 
 ### 0xStems - Airdrop
@@ -261,6 +263,8 @@ Over the 36-hours hackathon, my team prototyped a which platform serves as a Dis
 Find out more about the project at our repository:
 
 <https://github.com/NiftyRewards>
+
+<https://ethglobal.com/showcase/niftyrewards-mu1yz>
 
 <p align="left">
 <a href="https://www.niftyr3wrds.com/">
