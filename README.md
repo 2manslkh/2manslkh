@@ -37,6 +37,7 @@
 Cof.fin is a decentralized finance (DeFi) platform that enables users to maximize their yield from liquidity mining through automated leveraged yield farming on Uniswap V3 and Aave.
 
 <https://github.com/Cof-fin/cof.fin>
+
 <https://ethglobal.com/showcase/coffin-finance-fp4g3>
 
 ### MINAmal VRF - Trustless & Verifiable Random number generation (ETH Tokyo 2023)
