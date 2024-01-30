@@ -23,6 +23,25 @@
 
 ## &nbsp; **2023 Major Projects**
 
+### DeDe - Decentralized Delivery (ETH Istanbul 2023)
+<i>🏆 WalletConnect - Innovation Pool Prize</i>
+<i>🏆 Arbitrum - Pool Prize</i>
+<i>🏆 Scroll - Deploy on Scroll</i>
+<i>🏆 Worldcoin - Pool Prize</i>
+<i>🏆 Base - Build a Consumer Product</i>
+<i>🏆 Polygon - Best use of Polygon</i>
+<i>🏆 ENS - Best Use of Thorin</i>
+<i>🏆 Ethereum Attestation Service - Best Use of Attestations</i>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DeDe-EthIstanbul/DeDe/main/docs/Logo.png" width=400/>
+</a>
+
+https://github.com/DeDe-EthIstanbul/DeDe
+
+https://ethglobal.com/showcase/dede-0g6qx
+
 ### Cof.fin - Leveraged Yield Farming on UniswapV3 (ETH Lisbon 2023)
 
 <i>🏆 Mina Protocol — Best Use</i>
